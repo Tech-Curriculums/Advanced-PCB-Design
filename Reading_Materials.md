@@ -20,3 +20,6 @@ Sandwiching with GND layers:
 small signal layers can be on the middle layers in order to reduce coupling to the outer layers (basically it will ensure that we will dynamically modify the charge concentration in order to reduce the higher fourier components from affecting the Power line (which could potentially interfere with other modules, depending on how well their voltage regulation is going.
 
 
+> Finally, it is also desirable to have thick copper for the external high current power layers to minimize the PCB conduction loss and thermal impedance.
+
+
