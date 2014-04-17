@@ -1,7 +1,6 @@
 
 
 
-
 List of concerns
 * topology
   - description
@@ -10,3 +9,6 @@ List of concerns
 * phase and amplitude distortion
 * reflections
 * ground bounce 
+
+
+
