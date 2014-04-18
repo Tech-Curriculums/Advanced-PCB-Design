@@ -1,6 +1,9 @@
 ## EDN Design 
 
-4 minutes
+
+
+
+## Quick Design Tutorial -- 4 minutes
 
 http://www.edn.com/design/components-and-packaging/4390811/PCB-layout-considerations-for-non-isolated-switching-power-supplies
 
@@ -23,3 +26,10 @@ small signal layers can be on the middle layers in order to reduce coupling to t
 > Finally, it is also desirable to have thick copper for the external high current power layers to minimize the PCB conduction loss and thermal impedance.
 
 
+## TODO
+
+analysis of different layering strategies
+http://www.ti.com/lit/an/sprabb3/sprabb3.pdf
+
+4 or more layer design using eagle
+http://brc-electronics.nl/Generalfiles/Report2.pdf
