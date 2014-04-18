@@ -28,8 +28,12 @@ small signal layers can be on the middle layers in order to reduce coupling to t
 
 ## TODO
 
-analysis of different layering strategies
+### analysis of different layering strategies
 http://www.ti.com/lit/an/sprabb3/sprabb3.pdf
 
-4 or more layer design using eagle
+### 4 or more layer design using eagle
 http://brc-electronics.nl/Generalfiles/Report2.pdf
+
+
+### Altium tutorials
+http://www.bitweenie.com/
